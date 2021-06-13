@@ -2,6 +2,8 @@
 
 I am @sindastra and this here is a separate account for Docker Hub because I do want to build images automatically and comfortably, but did not want to give Docker Hub access to my main account.
 
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W215OZB)
+
 <!--
 **sindastra-docker/sindastra-docker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
